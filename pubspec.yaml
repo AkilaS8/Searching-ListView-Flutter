@@ -1,0 +1,33 @@
+name: searching_list_with_json
+description: A new Flutter project.
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  #http service
+  http: ^0.13.3
+
+  #emails send
+  url_launcher: ^6.0.9
+
+  #animation lottie file
+  lottie: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
