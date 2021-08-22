@@ -1,4 +1,4 @@
-### Flutter | Searching List View with JSON Data 
+# Flutter | Searching List View with JSON Data 
 #### ListView | JSON Data | Filtering | Searching | Url Launcher | List Navigator | Hero Animation |Lottie Animation
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
@@ -10,14 +10,15 @@
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpZob6LXFdKxn_UNg1UodEw)
 
 
-
 <img align="left" alt="img" src="https://raw.githubusercontent.com/AkilaS8/Searching-ListView-Flutter/main/gif.gif" width="auto" height="auto" />
 
-#### Project Description
+
+### Project Description
 <p>In this project retrieve some user data in JSON format from API service and using that data we create a Flutter ListView. To create a ListView we use ListView.builder class. By clicking the ListView item it opens a new window and shows all user details on that screen. Also using the search bar we can filter the ListView according to the user name and user job title. Additionally, by creating this project you can have some idea about how to use the ListTitle widget, Hero Animations, Lottie Animations, and Url Launcher.</p>
 
 <br>
-###Demo Video:<br>
+
+### Demo Video:<br>
 https://www.youtube.com/watch?v=xjOxBv_2cM4
 
 #### Include:
